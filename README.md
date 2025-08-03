@@ -28,9 +28,8 @@ Since this is a Chrome Extension, you'll need to load it locally in your Chrome 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/NiluAnalytics/Your-Chrome-Extension-Repo-Name.git](https://github.com/NiluAnalytics/Your-Chrome-Extension-Repo-Name.git)
+    git clone [https://github.com/NiluAnalytics/Simple Input Saver Chrome Extension.git](https://github.com/NiluAnalytics/Simple Input Saver Chrome Extension.git)
     ```
-    *(Replace `Your-Chrome-Extension-Repo-Name` with the actual name of your repository on GitHub.)*
 
 2.  **Open Chrome and navigate to `chrome://extensions`** in your address bar.
 
